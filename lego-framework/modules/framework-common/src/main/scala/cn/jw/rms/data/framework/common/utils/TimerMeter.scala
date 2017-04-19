@@ -3,9 +3,7 @@ package cn.jw.rms.data.framework.common.utils
 import org.slf4j.LoggerFactory
 import cn.jw.rms.data.framework.common._
 
-/**
-  * Created by deanzhang on 15/12/31.
-  */
+
 object TimerMeter {
   val logger = LoggerFactory.getLogger(this.getClass)
 

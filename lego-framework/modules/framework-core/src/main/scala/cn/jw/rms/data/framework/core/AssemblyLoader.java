@@ -10,9 +10,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.net.URLClassLoader;
 
-/**
- * Created by deanzhang on 15/11/28.
- */
+
 public class AssemblyLoader {
     public static CleanerAssembly loadCleaner(String jarFilePath, String classPath) throws NoSuchMethodException, InvocationTargetException, IllegalAccessException, InstantiationException, MalformedURLException, ClassNotFoundException {
             File myJar = new File(jarFilePath);

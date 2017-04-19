@@ -1,8 +1,6 @@
 package cn.jw.rms.data.framework.common.utils;
 
-/**
- * Created by deanzhang on 16/1/15.
- */
+
 
 import java.util.List;
 import java.util.Properties;

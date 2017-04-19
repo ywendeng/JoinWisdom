@@ -4,9 +4,7 @@ import com.typesafe.config.Config
 import org.apache.spark.SparkContext
 import org.apache.spark.rdd.RDD
 
-/**
-  * Created by deanzhang on 15/12/29.
-  */
+
 trait PredictModelAssembly {
   /**
     *

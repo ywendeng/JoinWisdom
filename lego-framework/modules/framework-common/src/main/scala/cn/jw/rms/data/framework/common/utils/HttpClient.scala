@@ -2,9 +2,7 @@ package cn.jw.rms.data.framework.common.utils
 
 import scalaj.http.Http
 
-/**
-  * Created by deanzhang on 16/4/13.
-  */
+
 object HttpClient {
 
   def postJson(url: String, json: String) = {

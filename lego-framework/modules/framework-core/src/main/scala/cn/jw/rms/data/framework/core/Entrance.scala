@@ -11,9 +11,7 @@ import scala.util.control.Breaks
 import scala.util.{Failure, Success, Try}
 import cn.jw.rms.data.framework.common._
 
-/**
-  * Created by deanzhang on 15/11/27.
-  */
+
 object Entrance {
 
   val logger = LoggerFactory.getLogger(this.getClass)

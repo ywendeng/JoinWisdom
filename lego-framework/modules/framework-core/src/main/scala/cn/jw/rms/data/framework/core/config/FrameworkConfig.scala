@@ -8,9 +8,7 @@ import org.slf4j.LoggerFactory
 
 import scala.io.Source
 
-/**
-  * Created by deanzhang on 15/11/29.
-  */
+
 object FrameworkConfig {
 
   val logger = LoggerFactory.getLogger(this.getClass)
