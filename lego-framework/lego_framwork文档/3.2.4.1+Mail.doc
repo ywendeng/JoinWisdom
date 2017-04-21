@@ -1,0 +1,644 @@
+Message-ID: <1084910396.2735.1492740019430.JavaMail.javamailuser@localhost>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2734_1648515926.1492740014341"
+
+------=_Part_2734_1648515926.1492740014341
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>3.2.4.1 Mail</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: #fff !important;
+        color: #000 !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: #000;
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>3.2.4.1 Mail</h1>
+    <div class=3D"Section1">
+        <p>=E6=96=B0=E7=89=88=E6=A1=86=E6=9E=B6=E7=9A=84=E9=A2=84=E8=AD=A6=
+=E9=82=AE=E4=BB=B6=EF=BC=8C<span style=3D"color: rgb(153,51,0);"><u><strong=
+>=E5=8F=AA=E4=BC=9A=E5=9C=A8=E6=9C=80=E4=B8=8A=E5=B1=82=E5=8F=91=E9=80=81=
+=E4=B8=80=E5=B0=81</strong></u></span>=EF=BC=8C=E6=9C=80=E4=B8=8A=E5=B1=82=
+=E5=8F=AF=E4=BB=A5=E6=98=AFSystem=EF=BC=88=E7=B3=BB=E7=BB=9F=EF=BC=89=E6=88=
+=96Application=EF=BC=88=E5=BA=94=E7=94=A8=EF=BC=89=E6=88=96Module=EF=BC=88=
+=E6=A8=A1=E5=9D=97=EF=BC=89=EF=BC=8C=E4=B8=8B=E9=9D=A2=E5=B0=86=E6=8F=8F=E8=
+=BF=B0=E9=92=88=E5=AF=B9=E8=BF=993=E7=A7=8D=E5=B1=82=E7=BA=A7=E7=9A=84=E9=
+=A2=84=E8=AD=A6=E9=82=AE=E4=BB=B6=E3=80=82</p>
+<p><style type=3D"text/css">/*<![CDATA[*/
+div.rbtoc1492740014276 {padding: 0px;}
+div.rbtoc1492740014276 ul {list-style: disc;margin-left: 0px;}
+div.rbtoc1492740014276 li {margin-left: 0px;padding-left: 0px;}
+
+/*]]>*/</style></p>
+<div class=3D"toc-macro rbtoc1492740014276">=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98=E6=8F=
+=8F=E8=BF=B0">=E9=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98=E6=8F=8F=E8=BF=B0</a></l=
+i>=20
+<li><a href=3D"#id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9=E6=8F=
+=8F=E8=BF=B0">=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9=E6=8F=8F=E8=BF=B0</a></l=
+i>=20
+<li><a href=3D"#id-3.2.4.1Mail-System=EF=BC=88=E7=B3=BB=E7=BB=9F=EF=BC=89=
+=E7=BA=A7=E5=88=AB=E9=82=AE=E4=BB=B6">System=EF=BC=88=E7=B3=BB=E7=BB=9F=EF=
+=BC=89=E7=BA=A7=E5=88=AB=E9=82=AE=E4=BB=B6</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-3.2.4.1Mail-=E6=88=90=E5=8A=9F=E9=82=AE=E4=BB=B6">=E6=88=
+=90=E5=8A=9F=E9=82=AE=E4=BB=B6</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98">=E9=82=
+=AE=E4=BB=B6=E4=B8=BB=E9=A2=98</a></li>=20
+<li><a href=3D"#id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9">=E9=82=
+=AE=E4=BB=B6=E5=86=85=E5=AE=B9</a></li>=20
+</ul> </li>=20
+<li><a href=3D"#id-3.2.4.1Mail-=E5=A4=B1=E8=B4=A5=E9=82=AE=E4=BB=B6">=E5=A4=
+=B1=E8=B4=A5=E9=82=AE=E4=BB=B6</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98.1">=E9=
+=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98</a></li>=20
+<li><a href=3D"#id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9.1">=E9=
+=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9</a></li>=20
+</ul> </li>=20
+</ul> </li>=20
+<li><a href=3D"#id-3.2.4.1Mail-Application=EF=BC=88=E5=BA=94=E7=94=A8=EF=BC=
+=89=E7=BA=A7=E5=88=AB=E9=82=AE=E4=BB=B6">Application=EF=BC=88=E5=BA=94=E7=
+=94=A8=EF=BC=89=E7=BA=A7=E5=88=AB=E9=82=AE=E4=BB=B6</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-3.2.4.1Mail-=E6=88=90=E5=8A=9F=E9=82=AE=E4=BB=B6.1">=E6=
+=88=90=E5=8A=9F=E9=82=AE=E4=BB=B6</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98.2">=E9=
+=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98</a></li>=20
+<li><a href=3D"#id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9.2">=E9=
+=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9</a></li>=20
+</ul> </li>=20
+<li><a href=3D"#id-3.2.4.1Mail-=E5=A4=B1=E8=B4=A5=E9=82=AE=E4=BB=B6.1">=E5=
+=A4=B1=E8=B4=A5=E9=82=AE=E4=BB=B6</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98.3">=E9=
+=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98</a></li>=20
+<li><a href=3D"#id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9.3">=E9=
+=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9</a></li>=20
+</ul> </li>=20
+</ul> </li>=20
+<li><a href=3D"#id-3.2.4.1Mail-Module=EF=BC=88=E6=A8=A1=E5=9D=97=EF=BC=89=
+=E7=BA=A7=E5=88=AB=E9=82=AE=E4=BB=B6">Module=EF=BC=88=E6=A8=A1=E5=9D=97=EF=
+=BC=89=E7=BA=A7=E5=88=AB=E9=82=AE=E4=BB=B6</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-3.2.4.1Mail-=E6=88=90=E5=8A=9F=E9=82=AE=E4=BB=B6.2">=E6=
+=88=90=E5=8A=9F=E9=82=AE=E4=BB=B6</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98.4">=E9=
+=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98</a></li>=20
+<li><a href=3D"#id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9.4">=E9=
+=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9</a></li>=20
+</ul> </li>=20
+<li><a href=3D"#id-3.2.4.1Mail-=E5=A4=B1=E8=B4=A5=E9=82=AE=E4=BB=B6.2">=E5=
+=A4=B1=E8=B4=A5=E9=82=AE=E4=BB=B6</a>=20
+<ul class=3D"toc-indentation">=20
+<li><a href=3D"#id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98.5">=E9=
+=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98</a></li>=20
+<li><a href=3D"#id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9.5">=E9=
+=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9</a></li>=20
+</ul> </li>=20
+</ul> </li>=20
+</ul>=20
+</div>
+<p></p>
+<h2 id=3D"id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98=E6=8F=8F=E8=
+=BF=B0">=E9=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98=E6=8F=8F=E8=BF=B0</h2>
+<p>=E9=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98=E4=B8=BB=E8=A6=81=E5=88=86=E6=88=90=
+4=E4=B8=AA=E9=83=A8=E5=88=86=EF=BC=8C=E6=A0=BC=E5=BC=8F=E5=A6=82=E4=B8=8B</=
+p>
+<p>[1.=E7=B3=BB=E7=BB=9F=E5=90=8D=E7=A7=B0][2.=E6=98=AF=E5=90=A6=E5=A4=B1=
+=E8=B4=A5=E9=A2=84=E8=AD=A6=EF=BC=9A=E5=8F=AA=E6=9C=89=E5=A4=B1=E8=B4=A5=E6=
+=97=B6=E6=89=8D=E6=98=BE=E7=A4=BA][3.=E6=9C=8D=E5=8A=A1=E5=99=A8=E4=BF=A1=
+=E6=81=AF=EF=BC=9A=E7=99=BB=E5=BD=95=E7=94=A8=E6=88=B7=E5=90=8D@=E6=9C=8D=
+=E5=8A=A1=E5=99=A8IP] 4.=E6=8F=8F=E8=BF=B0=EF=BC=9ASystem/Application/Modul=
+e[=E7=B3=BB=E7=BB=9F/=E5=BA=94=E7=94=A8/=E6=A8=A1=E5=9D=97=E7=9A=84=E5=90=
+=8D=E7=A7=B0] execute succeed/failed</p>
+<p><strong>=E6=88=90=E5=8A=9F=E9=82=AE=E4=BB=B6=E4=B8=BE=E4=BE=8B=EF=BC=9A<=
+/strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence" data-theme=3D"Confluence=
+">[RMS][deanzhang@192.168.20.65] System[systemA] execute succeed </pre>=20
+</div>
+</div>
+<p><strong>=E5=A4=B1=E8=B4=A5=E9=82=AE=E4=BB=B6=E4=B8=BE=E4=BE=8B=EF=BC=9A<=
+/strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence" data-theme=3D"Confluence=
+">[RMS][WARN!!][deanzhang@192.168.20.65] System[systemA] execute failed</pr=
+e>=20
+</div>
+</div>
+<h2 id=3D"id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9=E6=8F=8F=E8=
+=BF=B0"><br>=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9=E6=8F=8F=E8=BF=B0</h2>
+<div>
+<ol>
+<li>=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9=E4=BC=9A=E6=98=BE=E7=A4=BA=E6=80=
+=BB=E6=89=A7=E8=A1=8C=E6=97=B6=E9=97=B4=EF=BC=8C=E4=BB=A5=E5=8F=8A=E6=AF=8F=
+=E4=B8=AAassembly=E3=80=81module=E3=80=81application=E7=9A=84=E6=89=A7=E8=
+=A1=8C=E6=97=B6=E9=97=B4=EF=BC=8C=E5=8D=95=E4=BD=8D=E4=B8=BA=E7=A7=92</li>
+<li>=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9=E4=BC=9A=E6=8C=89=E7=85=A7applicat=
+ion =E3=80=8Bmodule =E3=80=8Bassembly=E7=9A=84=E5=B1=82=E7=BA=A7=E5=85=B3=
+=E7=B3=BB=E7=BC=A9=E8=BF=9B=E6=98=BE=E7=A4=BA</li>
+<li>=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9=E4=BC=9A=E6=98=BE=E7=A4=BA=E6=AF=
+=8F=E4=B8=AAassembly=E7=9A=84=E8=BF=94=E5=9B=9E=E7=BB=93=E6=9E=9C=EF=BC=88=
+=E8=8B=A5=E8=BF=94=E5=9B=9E=EF=BC=89=EF=BC=8C=E7=94=A8=E2=80=9C-----&gt;=E2=
+=80=9D=E6=A0=87=E8=AF=86=E5=BC=80=E5=A7=8B=E4=BD=8D=E7=BD=AE</li>
+<li>=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9=E5=8F=AA=E4=BC=9A=E6=98=BE=E7=A4=
+=BA=E6=88=AA=E6=AD=A2=E5=88=B0=E6=8A=A5=E9=94=99=E7=9A=84assembly=E4=BB=A5=
+=E5=8F=8A=E4=B9=8B=E5=89=8D=E7=9A=84=E6=89=A7=E8=A1=8C=E7=BB=93=E6=9E=9C=EF=
+=BC=8C=E6=8A=A5=E9=94=99=E7=9A=84assembly=E4=BC=9A=E6=98=BE=E7=A4=BA=E9=94=
+=99=E8=AF=AF=E4=BF=A1=E6=81=AF=EF=BC=8C=E7=94=A8=E2=80=9C-----&gt;=E2=80=9D=
+=E6=A0=87=E8=AF=86=E5=BC=80=E5=A7=8B=E4=BD=8D=E7=BD=AE</li>
+<li>=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9=E7=9A=84=E6=8F=8F=E8=BF=B0=E8=AF=
+=AD=E5=8F=A5=E4=B8=AD=E4=BC=9A=E4=BD=BF=E7=94=A8=E2=80=9C<strong>!!FAILED!!=
+</strong>=E2=80=9D=E6=A0=87=E8=AF=86=E5=8F=91=E7=94=9F=E9=94=99=E8=AF=AF=E7=
+=9A=84=E8=B7=AF=E5=BE=84</li>
+</ol>
+<p>&nbsp;</p>
+</div>
+<div>
+<strong>=E6=88=90=E5=8A=9F=E9=82=AE=E4=BB=B6=E4=B8=BE=E4=BE=8B=EF=BC=9A</st=
+rong>
+</div>
+<div>
+<p>&nbsp;</p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence" data-theme=3D"Confluence=
+">Total Elasped Time =3D 0.104s
+Application[appA] execute succeed, Elasped Time =3D 0.067s
+    Module[moduleA] execute succeed, Elasped Time =3D 0.040s
+        Assembly[a1] execute succeed, Elasped Time =3D 0.009s
+        -----&gt;lego test result
+        Assembly[a3] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+    Module[moduleB] execute succeed, Elasped Time =3D 0.008s
+        Assembly[a2] execute succeed, Elasped Time =3D 0.002s
+        -----&gt;lego test result
+        Assembly[a3] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+Application[appB] execute succeed, Elasped Time =3D 0.029s
+    Module[moduleC] execute succeed, Elasped Time =3D 0.020s
+        Assembly[a1] execute succeed, Elasped Time =3D 0.005s
+        -----&gt;lego test result
+        Assembly[a2] execute succeed, Elasped Time =3D 0.005s
+        -----&gt;lego test result
+        Assembly[a3] execute succeed, Elasped Time =3D 0.002s
+        -----&gt;lego test result
+    Module[moduleD] execute succeed, Elasped Time =3D 0.008s
+        Assembly[a1] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+        Assembly[a2] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+        Assembly[a3] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result</pre>=20
+</div>
+</div>
+<p>&nbsp;</p>
+<p><strong>=E5=A4=B1=E8=B4=A5=E9=82=AE=E4=BB=B6=E4=B8=BE=E4=BE=8B=EF=BC=9A<=
+/strong></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence" data-theme=3D"Confluence=
+">Total Elasped Time =3D 0.070s
+Application[appA] execute succeed, Elasped Time =3D 0.051s
+    Module[moduleA] execute succeed, Elasped Time =3D 0.035s
+        Assembly[a1] execute succeed, Elasped Time =3D 0.011s
+        -----&gt;lego test result
+        Assembly[a3] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+    Module[moduleB] execute succeed, Elasped Time =3D 0.006s
+        Assembly[a2] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+        Assembly[a3] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+Application[appB] execute !!FAILED!!, Elasped Time =3D 0.011s
+    Module[moduleC] execute !!FAILED!!, Elasped Time =3D 0.009s
+        Assembly[a1] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+        Assembly[a2] execute !!FAILED!!, Elasped Time =3D 0.003s
+        -----&gt;java.lang.Exception: Throw a test exception</pre>=20
+</div>
+</div>
+<p>&nbsp;</p>
+</div>
+<h2 id=3D"id-3.2.4.1Mail-System=EF=BC=88=E7=B3=BB=E7=BB=9F=EF=BC=89=E7=BA=
+=A7=E5=88=AB=E9=82=AE=E4=BB=B6">System=EF=BC=88=E7=B3=BB=E7=BB=9F=EF=BC=89=
+=E7=BA=A7=E5=88=AB=E9=82=AE=E4=BB=B6</h2>
+<h3 id=3D"id-3.2.4.1Mail-=E6=88=90=E5=8A=9F=E9=82=AE=E4=BB=B6">=E6=88=90=E5=
+=8A=9F=E9=82=AE=E4=BB=B6</h3>
+<h4 id=3D"id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98">=E9=82=AE=E4=
+=BB=B6=E4=B8=BB=E9=A2=98</h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence" data-theme=3D"Confluence=
+">[RMS][deanzhang@192.168.20.65] System[systemA] execute succeed </pre>=20
+</div>
+</div>
+<h4 id=3D"id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9">=E9=82=AE=E4=
+=BB=B6=E5=86=85=E5=AE=B9</h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence" data-theme=3D"Confluence=
+">Total Elasped Time =3D 0.104s
+Application[appA] execute succeed, Elasped Time =3D 0.067s
+    Module[moduleA] execute succeed, Elasped Time =3D 0.040s
+        Assembly[a1] execute succeed, Elasped Time =3D 0.009s
+        -----&gt;lego test result
+        Assembly[a3] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+    Module[moduleB] execute succeed, Elasped Time =3D 0.008s
+        Assembly[a2] execute succeed, Elasped Time =3D 0.002s
+        -----&gt;lego test result
+        Assembly[a3] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+Application[appB] execute succeed, Elasped Time =3D 0.029s
+    Module[moduleC] execute succeed, Elasped Time =3D 0.020s
+        Assembly[a1] execute succeed, Elasped Time =3D 0.005s
+        -----&gt;lego test result
+        Assembly[a2] execute succeed, Elasped Time =3D 0.005s
+        -----&gt;lego test result
+        Assembly[a3] execute succeed, Elasped Time =3D 0.002s
+        -----&gt;lego test result
+    Module[moduleD] execute succeed, Elasped Time =3D 0.008s
+        Assembly[a1] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+        Assembly[a2] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+        Assembly[a3] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result</pre>=20
+</div>
+</div>
+<h3 id=3D"id-3.2.4.1Mail-=E5=A4=B1=E8=B4=A5=E9=82=AE=E4=BB=B6">=E5=A4=B1=E8=
+=B4=A5=E9=82=AE=E4=BB=B6</h3>
+<h4 id=3D"id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98.1">=E9=82=AE=
+=E4=BB=B6=E4=B8=BB=E9=A2=98</h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence" data-theme=3D"Confluence=
+">[RMS2][WARN!!][deanzhang@192.168.20.65] System[systemA] execute failed</p=
+re>=20
+</div>
+</div>
+<h4 id=3D"id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9.1">=E9=82=AE=
+=E4=BB=B6=E5=86=85=E5=AE=B9</h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence" data-theme=3D"Confluence=
+">Total Elasped Time =3D 0.070s
+Application[appA] execute succeed, Elasped Time =3D 0.051s
+    Module[moduleA] execute succeed, Elasped Time =3D 0.035s
+        Assembly[a1] execute succeed, Elasped Time =3D 0.011s
+        -----&gt;lego test result
+        Assembly[a3] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+    Module[moduleB] execute succeed, Elasped Time =3D 0.006s
+        Assembly[a2] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+        Assembly[a3] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+Application[appB] execute !!FAILED!!, Elasped Time =3D 0.011s
+    Module[moduleC] execute !!FAILED!!, Elasped Time =3D 0.009s
+        Assembly[a1] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+        Assembly[a2] execute !!FAILED!!, Elasped Time =3D 0.003s
+        -----&gt;java.lang.Exception: Throw a test exception</pre>=20
+</div>
+</div>
+<p>&nbsp;</p>
+<h2 id=3D"id-3.2.4.1Mail-Application=EF=BC=88=E5=BA=94=E7=94=A8=EF=BC=89=E7=
+=BA=A7=E5=88=AB=E9=82=AE=E4=BB=B6">Application=EF=BC=88=E5=BA=94=E7=94=A8=
+=EF=BC=89=E7=BA=A7=E5=88=AB=E9=82=AE=E4=BB=B6</h2>
+<h3 id=3D"id-3.2.4.1Mail-=E6=88=90=E5=8A=9F=E9=82=AE=E4=BB=B6.1">=E6=88=90=
+=E5=8A=9F=E9=82=AE=E4=BB=B6</h3>
+<h4 id=3D"id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98.2">=E9=82=AE=
+=E4=BB=B6=E4=B8=BB=E9=A2=98</h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence" data-theme=3D"Confluence=
+">[RMS][deanzhang@192.168.20.65] Application[appB] execute succeed</pre>=20
+</div>
+</div>
+<h4 id=3D"id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9.2">=E9=82=AE=
+=E4=BB=B6=E5=86=85=E5=AE=B9</h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence" data-theme=3D"Confluence=
+">Total Elasped Time =3D 0.060s
+    Module[moduleC] execute succeed, Elasped Time =3D 0.041s
+        Assembly[a1] execute succeed, Elasped Time =3D 0.012s
+        -----&gt;lego test result
+        Assembly[a2] execute succeed, Elasped Time =3D 0.002s
+        -----&gt;lego test result
+        Assembly[a3] execute succeed, Elasped Time =3D 0.002s
+        -----&gt;lego test result
+    Module[moduleD] execute succeed, Elasped Time =3D 0.007s
+        Assembly[a1] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+        Assembly[a2] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+        Assembly[a3] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result</pre>=20
+</div>
+</div>
+<h3 id=3D"id-3.2.4.1Mail-=E5=A4=B1=E8=B4=A5=E9=82=AE=E4=BB=B6.1">=E5=A4=B1=
+=E8=B4=A5=E9=82=AE=E4=BB=B6</h3>
+<h4 id=3D"id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98.3">=E9=82=AE=
+=E4=BB=B6=E4=B8=BB=E9=A2=98</h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence" data-theme=3D"Confluence=
+">[RMS][WARN!!][deanzhang@192.168.20.65] Application[appB] execute failed <=
+/pre>=20
+</div>
+</div>
+<h4 id=3D"id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9.3">=E9=82=AE=
+=E4=BB=B6=E5=86=85=E5=AE=B9</h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence" data-theme=3D"Confluence=
+">Total Elasped Time =3D 0.068s
+    Module[moduleC] execute !!FAILED!!, Elasped Time =3D 0.060s
+        Assembly[a1] execute succeed, Elasped Time =3D 0.017s
+        -----&gt;lego test result
+        Assembly[a2] execute !!FAILED!!, Elasped Time =3D 0.010s
+        -----&gt;java.lang.Exception: Throw a test exception</pre>=20
+</div>
+</div>
+<h2 id=3D"id-3.2.4.1Mail-Module=EF=BC=88=E6=A8=A1=E5=9D=97=EF=BC=89=E7=BA=
+=A7=E5=88=AB=E9=82=AE=E4=BB=B6">Module=EF=BC=88=E6=A8=A1=E5=9D=97=EF=BC=89=
+=E7=BA=A7=E5=88=AB=E9=82=AE=E4=BB=B6</h2>
+<h3 id=3D"id-3.2.4.1Mail-=E6=88=90=E5=8A=9F=E9=82=AE=E4=BB=B6.2">=E6=88=90=
+=E5=8A=9F=E9=82=AE=E4=BB=B6</h3>
+<h4 id=3D"id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98.4">=E9=82=AE=
+=E4=BB=B6=E4=B8=BB=E9=A2=98</h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence" data-theme=3D"Confluence=
+">[RMS][deanzhang@192.168.20.65] Module[moduleC] execute succeed</pre>=20
+</div>
+</div>
+<h4 id=3D"id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9.4">=E9=82=AE=
+=E4=BB=B6=E5=86=85=E5=AE=B9</h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence" data-theme=3D"Confluence=
+">Total Elasped Time =3D 0.017s
+        Assembly[a1] execute succeed, Elasped Time =3D 0.007s
+        -----&gt;lego test result
+        Assembly[a2] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result
+        Assembly[a3] execute succeed, Elasped Time =3D 0.001s
+        -----&gt;lego test result</pre>=20
+</div>
+</div>
+<h3 id=3D"id-3.2.4.1Mail-=E5=A4=B1=E8=B4=A5=E9=82=AE=E4=BB=B6.2">=E5=A4=B1=
+=E8=B4=A5=E9=82=AE=E4=BB=B6</h3>
+<h4 id=3D"id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E4=B8=BB=E9=A2=98.5">=E9=82=AE=
+=E4=BB=B6=E4=B8=BB=E9=A2=98</h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence" data-theme=3D"Confluence=
+">[RMS][WARN!!][deanzhang@192.168.20.65] Module[moduleC] execute failed</pr=
+e>=20
+</div>
+</div>
+<h4 id=3D"id-3.2.4.1Mail-=E9=82=AE=E4=BB=B6=E5=86=85=E5=AE=B9.5">=E9=82=AE=
+=E4=BB=B6=E5=86=85=E5=AE=B9</h4>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">=20
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: actionscript3; gutter: false; theme: Confluence" data-theme=3D"Confluence=
+">Total Elasped Time =3D 0.017s
+        Assembly[a1] execute succeed, Elasped Time =3D 0.007s
+        -----&gt;lego test result
+        Assembly[a2] execute !!FAILED!!, Elasped Time =3D 0.003s
+        -----&gt;java.lang.Exception: Throw a test exception</pre>=20
+</div>
+</div>
+    </div>
+</body>
+</html>
+------=_Part_2734_1648515926.1492740014341--
