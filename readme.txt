@@ -1,3 +1,19 @@
-¿ò¼Ü:spark+scala
-¹¦ÄÜ£ºÖ÷ÒªÓÃÓÚÊµÏÖÁËRevene Plus ÖÐÊý¾ÝÇåÏ´µÄ´úÂë
-ËµÃ÷£ºÓÉÓÚÔÚ¹¤×÷ÆÚ¼ä´úÂëÊÇÌá½»µ½¹«Ë¾µÄgithubÉÏ£¬ËùÒÔÔÚ¹¤×÷ÆÚ¼ä×Ô¼ºÐ´µÄ´úÂëÔÚ¹¤×÷½áÊøÖ®ºó¼¯ÖÐÌá½»µ½×Ô¼ºµÄgithub.
+æ¡†æž¶:spark+scala
+åŠŸèƒ½ï¼šä¸»è¦ç”¨äºŽå®žçŽ°äº†Revene Plus ä¸­æ•°æ®æ¸…æ´—çš„ä»£ç 
+è¯´æ˜Žï¼šç”±äºŽåœ¨å·¥ä½œæœŸé—´ä»£ç æ˜¯æäº¤åˆ°å…¬å¸çš„githubä¸Šï¼Œæ‰€ä»¥åœ¨å·¥ä½œæœŸé—´è‡ªå·±å†™çš„ä»£ç åœ¨å·¥ä½œç»“æŸä¹‹åŽé›†ä¸­æäº¤åˆ°è‡ªå·±çš„github
+ç¨‹åºæ‰§è¡Œè„šæœ¬ï¼š
+#!/bin/bash
+export PATH="/usr/local/hadoop/bin:/usr/local/hadoop/sbin:/usr/local/hbase/bin:/usr/local/hive/bin:/usr/local/hive/hcatalog/bin:/usr/local/mysql/bin:/usr/local/oozie/bin:/usr/local/sqoop/bin:/usr/local/scala/bin:/usr/local/spark/bin:/usr/local/bin:/usr/local/jdk/bin:/usr/local/maven/bin:/usr/local/ant/bin:/usr/local/protobuf/bin:/usr/local/bin:/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/sbin:/home/bidev/bin:/home/bidev/.local/usr/bin"
+NEW_FCDT=$1
+TODAY_FCDT=`date +%Y-%m-%d`
+NEW_FCDT=${NEW_FCDT:-$TODAY_FCDT}
+ROOT_DIR=/data/p/bw/rms/models/prod/v2.2/2.2.0/sys_day
+SCRIPT_DIR=/data/p/bw/rms/models/prod/v2.2/2.2.0/sys_day/insertData2MysqlScripts
+FC_DT=`date -d "$NEW_FCDT -1 days" +%Y-%m-%d`
+
+start_date=`date +%H:%M:%S`
+spark-submit --jars $(find ${ROOT_DIR} -type f -name "*.jar" -not -name "lego-core*" | xargs echo | tr ' ' ',') --class cn.jw.rms.data.framework.core.Main --master yarn-client  --driver-memory 8G  --executor-memory 10G  --num-executors 30  --conf spark.default.parallelism=30 --conf spark.shuffle.consolidateFiles=true --conf spark.shuffle.consolidateFiles=true --conf spark.rdd.compress=true ${ROOT_DIR}/lego-core-assembly-2.0.jar ${ROOT_DIR}/conf/application.conf
+
+end_date=`date +%H:%M:%S`
+let date=$(date +%s -d"$end_date")-$(date +%s -d"$start_date")
+echo -e "bidev\t$FC_DT\t$date" >> $ROOT_DIR/date_record.log
